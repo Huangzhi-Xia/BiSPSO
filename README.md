@@ -1,4 +1,5 @@
 # BiSPSO
+DOI: 10.1109/TVT.2026.3688498
 Particle swarm optimization with bidirectional search (BiSPSO): An enhanced particle swarm optimization algorithm for solving the path planning dual quaternion optimization model (PPDQOM) and the path planning motion optimization model (PPMOM).
 
 
